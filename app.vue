@@ -5,5 +5,5 @@
 </template>
 
 <script lang="ts" setup>
-const year: number = "2022"
+const year: string = "2022"
 </script>
